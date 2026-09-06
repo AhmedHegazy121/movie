@@ -1,16 +1,49 @@
 # [Movies App](https://movie-3ufh9jdtu-ahmed-hegazy-h-projects.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+<div align="center">
+ <h1>Movie Discovery & Analytics Web App </h1>
+ &nbsp;&nbsp;
+  
+  <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
+  
+  <br/><br/>
 
-Currently, two official plugins are available:
+  <!-- Tech Stack Grid with Names Underneath -->
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <!-- React -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/react.svg" alt="React" height="25" /><br/>
+        <sub style="font-size: 11px;">React.js</sub>
+      </td>
+      <!-- Three.js -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/appwrite.svg" alt="Appwrite" height="25" /><br/>
+        <sub style="font-size: 11px;">Appwrite</sub>
+      </td>
+      <!-- Tailwind CSS -->
+      <td align="center" style="border: none; padding: 0 20px;">
+        <img src="img/tailwindcss.svg" alt="Tailwind CSS" height="25" /><br/>
+        <sub style="font-size: 11px;">Tailwind CSS</sub>
+      </td>
+    </tr>
+  </table>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+  <br/><br/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  <!-- Fixed Action Links using your live link -->
+  <a href="https://movie-3ufh9jdtu-ahmed-hegazy-h-projects.vercel.app/" target="_blank">
+   Live Demo 👆
+  </a>
+  
 
-## Expanding the Oxlint configuration
+</div>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+### Project Overview
+
+* **Built a scalable web app using TypeScript that aggregates real-time movie data and features a multi-metric search system.
+* **Engineered a search-tracking popularity algorithm on the backend using Appwrite to dynamically rank and display trending movies. 
+* **Styled a fluid, mobile-first interface using Tailwind CSS ensuring rapid loading times and seamless responsiveness across devices.
