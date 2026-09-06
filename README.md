@@ -44,6 +44,6 @@
 
 ### Project Overview
 
-* **Built a scalable web app using TypeScript that aggregates real-time movie data and features a multi-metric search system.
-* **Engineered a search-tracking popularity algorithm on the backend using Appwrite to dynamically rank and display trending movies. 
-* **Styled a fluid, mobile-first interface using Tailwind CSS ensuring rapid loading times and seamless responsiveness across devices.
+* Built a scalable web app using TypeScript that aggregates real-time movie data and features a multi-metric search system.
+* Engineered a search-tracking popularity algorithm on the backend using Appwrite to dynamically rank and display trending movies. 
+* Styled a fluid, mobile-first interface using Tailwind CSS ensuring rapid loading times and seamless responsiveness across devices.
