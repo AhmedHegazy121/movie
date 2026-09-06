@@ -4,7 +4,7 @@
  <h1>Movie Discovery & Analytics Web App </h1>
  &nbsp;&nbsp;
   
-  <img src="img/cover.png" alt="Apple iPhone 15 Pro Clone Cover" width="100%">
+  <img src="img/cover.png" alt="Movie Discovery" width="100%">
   
   <br/><br/>
 
